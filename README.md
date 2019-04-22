@@ -1,5 +1,13 @@
 # NgForm
 
+This repository is used to add some form utilities and test NPM publishing with Angular library.
+
+Checks [Ng Form Utils](./projects/ng-form-utils/README.md)
+
+---------------------------------------
+
+# Standard Angular auto generated README
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
 ## Development server
