@@ -5,6 +5,11 @@
     "name": "Paolo Tesser",
     "email": "paolo.tesser.dev@gmail.com"
   },
+  "homepage": "https://github.com/ptesser/ng-form/tree/master/projects/ng-form-utils/README.md",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ptesser/ng-form.git"
+  },
   "peerDependencies": {
     "@angular/common": "^7.0.0",
     "@angular/core": "^7.0.0"
